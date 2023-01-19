@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+#gustavo{
+	width: 62%;
+	background-color: aquamarine;
+	margin: 5px;
+	padding: 1%;
+	border-radius: 5px;
+}
+
+#gustavo img{
+	width: 500px;
+	margin: 5px;
+}
